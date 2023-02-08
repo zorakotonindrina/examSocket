@@ -1,0 +1,26 @@
+
+.icon{
+    float: right;
+    margin-top: -33px;
+   
+      font-size: medium;
+  }
+  
+  .carre{
+    margin-top: 2%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+    width: 23%;
+    height: 500px;
+    border-radius: 20px
+  }
+  
+  .genm{
+    background-image: url("img/illu1.webp");
+    height: 1100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
